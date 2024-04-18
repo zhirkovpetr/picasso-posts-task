@@ -8,7 +8,7 @@ import {App, store} from "./app";
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/picasso-posts-task">
       <App/>
     </BrowserRouter>
   </Provider>
