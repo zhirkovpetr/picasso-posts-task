@@ -1,6 +1,6 @@
 # Список постов
 
-## Github Pages: https://zhirkovpetr.github.io/posts-task
+## Github Pages: https://zhirkovpetr.github.io/picasso-posts-task
 
 ## Технологии
 + Vite
