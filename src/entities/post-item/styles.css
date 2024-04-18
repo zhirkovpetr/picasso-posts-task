@@ -1,0 +1,7 @@
+.post-item-container {
+  background-color: rgba(198,198,198,0.19);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px rgba(198,198,198,0.32);
+}
